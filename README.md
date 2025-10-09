@@ -1,10 +1,10 @@
 # Programming Languages Tier List
 
-| 🏆 S | TypeScript                       | Rust                  | CSS                          | HTML    |
-|:-:|----------------------------------|-----------------------|------------------------------|---------|
-| 😁 A | Go                               | Python                | Tailwind                     |         |
-| 😃 B | Bash                             | C++                   | VSCode                       | ChatGPT |
-| 🙂 C | Jira                             | Devin                 | PirateSoftware               |         |
-| 😐 D | Roblox Lua/Redstone (same thing) | Emacs                 | Vercel                       |         |
-| 🤨 E | Confluence                       | Microsoft PowerPoint  | Rabbit R1                    |         |
-| ☹️ F | ClerkJS                          | Cloudflare Sales Team | Java/JavaScript (same thing) |         |
+| 🏆 S | GulfOfMexico                       | Typescript                  | Rust                          
+|:-:|----------------------------------|-----------------------|------------------------------|
+| 😁 A | Go                               | Tea App               | Tailwind                     |
+| 😃 B | Firefox Legal Team               | C++                   | VSCode                       |
+| 🙂 C | Jira                             | Devin                 | PirateSoftware               |
+| 😐 D | Haskell                          | Emacs                 | MongoDB                      |
+| 🤨 E | Confluence                       | GitLab                | Rabbit R1                    |
+| ☹️ F | HTMX                             | Cloudflare Sales Team | Java/JavaScript (same thing) |
