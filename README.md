@@ -6,5 +6,5 @@
 | 😃 B | Firefox Legal Team               | C++                   | VSCode                       |
 | 🙂 C | Jira                             | Devin                 | PirateSoftware               |
 | 😐 D | Haskell                          | Emacs                 | MongoDB                      |
-| 🤨 E | Confluence                       | GitLab                | Rabbit R1                    |
+| 🤨 E | Confluence                       | Malbolge              | Rabbit R1                    |
 | ☹️ F | HTMX                             | Cloudflare Sales Team | Java/JavaScript (same thing) |
