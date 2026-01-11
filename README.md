@@ -1,8 +1,8 @@
 # Programming Languages Tier List
 
-| 🏆 S | GulfOfMexico                       | Typescript                  | Rust                          
+| 🏆 S | GulfOfMexico                       | Typescript                  | Crust                          
 |:-:|----------------------------------|-----------------------|------------------------------|
-| 😁 A | Go                               | Tea App               | Tailwind                     |
+| 😁 A | Rust                             | Tea App               | Tailwind                     |
 | 😃 B | Firefox Legal Team               | C++                   | VSCode                       |
 | 🙂 C | Jira                             | Devin                 | PirateSoftware               |
 | 😐 D | Haskell                          | Emacs                 | MongoDB                      |
